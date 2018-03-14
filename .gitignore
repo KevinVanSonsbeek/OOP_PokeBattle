@@ -1,0 +1,3 @@
+# ignore folders made by Visual Studio and Jetbrains PHPStorm
+.idea/
+.vs/
